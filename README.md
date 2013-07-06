@@ -24,4 +24,4 @@ Make it a jQuery plugin to apply on any div. Make a block follow the finger when
 None for the moment.
 
 ## Contributing
-You are welcome to contribute code and suggestions to this project !
+You are welcome to contribute to this project !
